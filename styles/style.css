@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(2, 200, 141);
+  font-family: Helvetica, sans-serif;
+}
+
+.body.macaroniandcheese {
+  background-color: rgb(51, 132, 175);
+}
+
+.body.protein {
+  background-color: rgb(242, 214, 176);
+}
+
+.body.rootbeer {
+  background-color: white;
+}
+.title {
+  font-size: 50px;
+  text-align: center;
+  color: rgb(255, 255, 134);
+}
+
+.title.macaroni {
+  color: white;
+}
+
+.title.protein {
+  color: black;
+}
+
+.title.rootbeer {
+  color: rgb(80, 50, 50);
+}
+
+.recipe.list {
+  color: rgb(249, 180, 172);
+}
+
+.recipe {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.image {
+  display: block;
+  margin: auto;
+}
