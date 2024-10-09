@@ -1,6 +1,6 @@
 body {
-  background-color: rgb(2, 200, 141);
-  font-family: Helvetica, sans-serif;
+  background-color: rgb(150, 89, 105);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .body.macaroniandcheese {
@@ -17,7 +17,7 @@ body {
 .title {
   font-size: 50px;
   text-align: center;
-  color: rgb(255, 255, 134);
+  color: #080800;
 }
 
 .title.macaroni {
@@ -33,12 +33,37 @@ body {
 }
 
 .recipe.list {
-  color: rgb(249, 180, 172);
+  color: rgb(3, 3, 3);
 }
 
 .recipe {
-  color: white;
+  color: black;
   font-weight: bold;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.recipes {
+  background-color: white;
+  width: 400px;
+  height: 300px;
+  border-style: solid;
+  border-color: black;
+  border-width: 8px;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.title-div {
+  background-color: white;
+  width: 400px;
+  height: auto;
+  border-style: solid;
+  border-color: black;
+  border-width: 8px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
 }
